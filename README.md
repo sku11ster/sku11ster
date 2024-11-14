@@ -1,6 +1,6 @@
 # Hello, I'm Murtaza Ahmed 👋
 
-## About Me ℹ️
+## About Me
 I'm a Full Stack Web Developer with expertise in Django. I enjoy building scalable web applications and exploring new technologies.
 
 ## Skills 💻
@@ -21,6 +21,6 @@ Here are some of the projects I've worked on:
 ## Get in Touch 📬
 - LinkedIn: [SKU11STER](https://www.linkedin.com/in/sku11ster/)
 - Email: [Email](mailto:sku11ster@the0xweb.com)
-- Portfolio: [Portfolio](sku11ster.xyz)
+- Portfolio: [Portfolio](https://sku11ster.xyz/)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
