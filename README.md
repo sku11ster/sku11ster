@@ -10,8 +10,8 @@ I'm a Full Stack Web Developer with expertise in Django. I enjoy building scalab
 Here are some of the projects I've worked on:
 1. Lucasa
    - Technologies used: Django, React.js, PostgreSQL.
-   - Link to GitHub repo: [Project Repo](link_to_repo)
-   - Link to live demo: [Live Demo](link_to_demo)
+   - Link to GitHub repo: [Project Repo](https://github.com/sku11ster/LuCasa)
+   - Link to live demo: [Live Demo](https://lu-casa-frontend.vercel.app/)
 
 ## Education 🎓
 - **Degree in Data Science:** FAST NUCES,Lahore
